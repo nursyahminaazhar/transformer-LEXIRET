@@ -25,3 +25,7 @@ Open terminal (Windows Command Prompt or PowerShell) and run:
 ```bash
 cd "C:\Users\gesture_app"
 python gesture_predictor_app.py
+
+📄 This project is licensed under a custom Non-commercial Research License.  
+✉️ Contact [nursyahminaazhar@gmail.com] for permission.  
+📚 Citation required for use in academic work.  
