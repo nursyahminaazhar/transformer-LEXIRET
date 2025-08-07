@@ -1,9 +1,22 @@
-Copyright (c) 2025 [Your Name]
+Copyright (c) 2025 [Nur Syahmina]
 
-Permission is granted for academic and research use only, including reproduction and use in source and binary forms, with or without modification, provided the following conditions are met:
+This code, data, and related materials are provided strictly for **non-commercial academic and research purposes only**.
 
-1. This code, data, and model may only be used for **non-commercial research purposes**.
-2. Attribution must be given to the original authors and repository.
-3. Redistribution must include this license file.
+Permission is hereby granted, free of charge, to use, reproduce, and modify the contents **only under the following conditions**:
 
-THIS SOFTWARE AND DATA ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+1. **Non-commercial use only**:  
+   This code may not be used for commercial purposes or for the benefit of any for-profit entity.
+
+2. **Citation required**:  
+   If you use any part of this repository in your work (e.g., code, models, or results), you must properly cite the associated article:
+
+   > [Nur Syahmina Ahmad Azhar], *[A Preliminary Study on Transformer-based Lexical Retrieval Conditioned on Confidence in Normal and Aphasic Communication]*, [The International Conference on Electrical and Electronic Engineering 2025], [2025].
+
+3. **Permission required for reuse**:  
+   Redistribution of this code (modified or unmodified), use in publications, or integration into other tools **requires written permission from the author**.
+
+4. **No Warranty**:  
+   This software and data are provided "as is", without warranty of any kind.
+
+For permission requests or questions, please contact: [nursyahminaazhar@gmail.com]
+
